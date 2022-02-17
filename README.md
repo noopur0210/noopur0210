@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noopur Sharma
-- 👀 I’m interested in Programming, Web Development, C++
-- 🌱 I’m currently learning Front-end Web Development, Data Structures and Algorithms
+- 👀 I’m interested in FullStack Web Development, Programming, Blockchain Development
+- 🌱 I’m currently learning FullStack Web Development, Data Structures and Algorithms
 - 📫 How to reach me:
             Noopur Sharma on LinkedIn
   📫 Write to me: noopurs0210@gmail.com
